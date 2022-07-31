@@ -4,5 +4,6 @@
 
 Jul. 
 
-- 0706 - [0003](./00003-medium-omit/README.md)
-- 
+- 0706 - [00003-medium-omit](./00003-medium-omit/README.md)
+- 0731 - [00116-medium-replace](./00116-medium-replace/README.md)
+- 0731 - [00119-medium-replaceall](./00119-medium-replaceall/README.md)
