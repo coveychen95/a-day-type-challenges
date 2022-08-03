@@ -1,1 +1,2 @@
 type Permutation<T> = any
+
