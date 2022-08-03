@@ -9,3 +9,4 @@ Jul.
 - 0731 - [00119-medium-replaceall](./00119-medium-replaceall/README.md)
 - 0802 - [00191-medium-append-argument](./00191-medium-append-argument/README.md)
 - 0803 - [00296-medium-permutation](./00296-medium-permutation/README.md)
+- 0803 - [00298-medium-length-of-string](./00298-medium-length-of-string/README.md)
