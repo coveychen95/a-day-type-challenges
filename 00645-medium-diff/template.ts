@@ -1,0 +1,1 @@
+type Diff<0, 01> = any
