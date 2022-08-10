@@ -10,5 +10,6 @@ type cases = [
   Expect<Equal<AnyOf<[0, '', false, [], { 1: 'test' }]>, true>>,
   Expect<Equal<AnyOf<[0, '', false, [], { name: 'test' }, { 1: 'test' }]>, true>>,
   Expect<Equal<AnyOf<[0, '', false, [], {}]>, false>>,
+  Expect<Equal<AnyOf<[0, '', false, [], {a: ''}]>, true>>,
   Expect<Equal<AnyOf<[]>, false>>,
 ]
