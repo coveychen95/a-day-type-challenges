@@ -1,0 +1,2 @@
+
+type IsUnion<T> = any
