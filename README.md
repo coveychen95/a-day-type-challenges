@@ -2,12 +2,6 @@
 
 今日事，今日毕。每天一个类型体操，精气神杠杠滴!
 
-Jul. 
-
-- 0706 - [00003-medium-omit](./00003-medium-omit/README.md)
-- 0731 - [00116-medium-replace](./00116-medium-replace/README.md)
-- 0731 - [00119-medium-replaceall](./00119-medium-replaceall/README.md)
-- 0802 - [00191-medium-append-argument](./00191-medium-append-argument/README.md)
-- 0803 - [00296-medium-permutation](./00296-medium-permutation/README.md)
-- 0803 - [00298-medium-length-of-string](./00298-medium-length-of-string/README.md)
-- 0805 - [00459-medium-flatten](./00459-medium-flatten/README.md)
+## 简介  
+`TS` 类型是图灵完备的，也就是说它是可以实现我们的几乎所有的类型推断与处理。  
+为了使用好 `TS` ，了解学习 `TS` 的类型原理与使用技巧，特开此篇。  
